@@ -14,7 +14,7 @@ function Home() {
           <p className="italic mb-6">I thrive on turning ideas into real-world solutions.</p>
           <div className="flex justify-center md:justify-start gap-4">
             <a
-              href="./Resume(1).pdf"
+              href="./Zamall.pdf"
               className="bg-yellow-400 text-black py-2 px-4 rounded hover:bg-yellow-300 transition"
             >
               Download Resume
